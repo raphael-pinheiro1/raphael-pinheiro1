@@ -1,7 +1,7 @@
 ### Hello world, eu sou o Raphael Pinheiro 👋
 
 - 🔭 Atualmente eu sou auxiliar de escritório
-- 🌱 Estou estudando html, css e javascript 
+- 🌱 Estou estudando HTML, CSS e JavaScript 
 - 😄 Pronouns: ele/dele
 
 ##
