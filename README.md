@@ -19,10 +19,16 @@
   </div>
   
   ##
-  
+
+#### Contatos:
+
   <div>
     <a href="https://www.instagram.com/phael.groe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raphael-pinheiro-737a49221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://wa.me/5521977702525" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href = "raphaelteixeiraa1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    
+  <center><img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif"/></center>
 </div>
 
 ![Snake animation](https://github.com/raphael-pinheiro1/raphael-pinheiro1/blob/output/github-contribution-grid-snake.svg)
