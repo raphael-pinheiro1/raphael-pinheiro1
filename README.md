@@ -5,7 +5,7 @@
 - 😄 Pronouns: ele/dele
 
 ##
-#### Meu Status:
+#### My Status:
 
 <div>
   <a href="https://github.com/raphael-pinheiro1">
