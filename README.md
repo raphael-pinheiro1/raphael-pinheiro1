@@ -20,7 +20,6 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br>
 
 ### 💻 Software and Tools
 
@@ -35,12 +34,7 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 </p>
 
-<br>  
 
-### Other Knowledge:
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
-
-  
 ### Studying in this moment:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
@@ -53,7 +47,6 @@
   <a href="https://www.linkedin.com/in/raphael-pinheiro-737a49221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   <a href = "raphaelteixeiraa1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5521977702525" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <br>
   <br>
     
   <center><img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif"/></center>
