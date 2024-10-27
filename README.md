@@ -3,7 +3,6 @@
 - 🔭 Atualmente eu sou auxiliar de escritório
 - 🌱 Estou estudando HTML, CSS, JavaScript e Python
 - 😄 Pronouns: ele/dele
-- ![MuaKissGIF](https://github.com/user-attachments/assets/a223c7cd-e06c-494e-86ed-b70ff02d43ce)
 
 
 ##
